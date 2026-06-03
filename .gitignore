@@ -1,0 +1,16 @@
+tsconfig.json
+dist/
+node_modules/
+.env
+.env.local
+logs/
+*.log
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+build/
+cache/
+artifacts/
+coverage/
